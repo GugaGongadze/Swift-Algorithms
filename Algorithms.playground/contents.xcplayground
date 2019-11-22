@@ -4,5 +4,7 @@
         <page name='FizzBuzz'/>
         <page name='IsAnagram'/>
         <page name='CheckStraightLine'/>
+        <page name='UniqueOccurrences'/>
+        <page name='ReverseLinkedList'/>
     </pages>
 </playground>
